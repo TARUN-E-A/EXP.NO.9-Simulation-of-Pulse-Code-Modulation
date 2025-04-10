@@ -89,4 +89,4 @@ plt.show()
  ![image](https://github.com/user-attachments/assets/9488e83c-a5b3-4ee4-bb6b-c1c7117cc7b5)
 
 ## RESULT:
-To Simulate of PCM using Python was verified successfully.
+The simulation of PCM using Python was successfully verified.
